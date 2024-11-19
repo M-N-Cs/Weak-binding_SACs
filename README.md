@@ -1,5 +1,4 @@
 # Weak-binding_SACs
-Supplementary data for the paper titled with "Why Do Weak-Binding M-N-C Single-Atom Catalysts Still Possess Anomalously High Oxygen Reduction Activity in Alkaline Media?" 
 
 The CONTCAR-type structures utilized for deriving scaling relations, analyzing electric field response, and investigating solvation effects are included in CONTCARs. 
 
